@@ -1,0 +1,7 @@
+{
+  "name": "projectnieuws",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
