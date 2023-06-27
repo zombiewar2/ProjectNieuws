@@ -3,7 +3,11 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  api_key:'b5a6ce1a500b451fa26458782edab53b',
+  url_base:'https://newsapi.org/v2/',
+  supabaseUrl:"https://awuxfrtjsnmsgactazzq.supabase.co",
+  supabaseAPI:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImF3dXhmcnRqc25tc2dhY3RhenpxIiwicm9sZSI6ImFub24iLCJpYXQiOjE2ODc0NTMyNTEsImV4cCI6MjAwMzAyOTI1MX0.pGAYsqhUtzeYDPZzz7JfwESMfeFAT6ALRz7WQrTl9Jw",
 };
 
 /*

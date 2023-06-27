@@ -1,4 +1,5 @@
 import { CapacitorConfig } from '@capacitor/cli';
+import { SplashScreen } from '@capacitor/splash-screen';
 
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
@@ -8,5 +9,6 @@ const config: CapacitorConfig = {
     androidScheme: 'https'
   }
 };
+
 
 export default config;
